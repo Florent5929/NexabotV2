@@ -1,0 +1,5 @@
+name: Nexabot
+main: main.java.fr.florent.bot.Plugin
+version: 1.0.0
+description: Bot pour serveur discord
+author: Florent
